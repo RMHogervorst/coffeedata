@@ -1,0 +1,8 @@
+Package: coffeedata
+Title: Coffee Consumption Timestamps of One Individual Over a Year
+Version: 0.1.0
+Author: Roel M Hogervorst
+Maintainer: Roel M Hogervorst <hogervorst.rm@gmail.com>
+Description: Every time a coffee was consumed a timestamp was recorded.
+License: CC0
+LazyData: TRUE
