@@ -6,3 +6,4 @@ Maintainer: Roel M Hogervorst <hogervorst.rm@gmail.com>
 Description: Every time a coffee was consumed a timestamp was recorded.
 License: CC0
 LazyData: TRUE
+RoxygenNote: 5.0.1
